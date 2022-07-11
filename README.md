@@ -7,8 +7,7 @@ Una forma de descargar los datos de la página web del Banco Central de Reserva 
 
 En este ejercicio, se utiliza la librería REQUESTS y el método GET(URL) para realizar las peticiones al API del BCRP y poder consultar los datos. La estructura de la URL es la siguiente:
     
-`"https://estadisticas.bcrp.gob.pe/estadisticas/series/api/[códigos_de_series]/[formato_de_salida]/[periodo_inicial]/[periodo_final]/
-  [idioma]"`
+`"https://estadisticas.bcrp.gob.pe/estadisticas/series/api/[códigos_de_series]/[formato_de_salida]/[periodo_inicial]/[periodo_final]/[idioma]"`
 </p>
 
 <p align="center";font-size:20pt>
