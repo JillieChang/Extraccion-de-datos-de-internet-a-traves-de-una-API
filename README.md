@@ -30,7 +30,7 @@ Revisar la <a href="https://estadisticas.bcrp.gob.pe/estadisticas/series/ayuda/a
 
 ## Tabla de contenido
 
-A continuación, se siguieron los siguientes pasos para poder descargar los datos:
+A continuación, se muestran los pasos que se siguieron para poder descargar los datos:
 
 <ol>
   <li>Construir estructura de consultas (URL)</li>
