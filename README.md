@@ -37,5 +37,5 @@ A continuación, se muestran los pasos que se siguieron para poder descargar los
   <li>Revisar estructura de respuestas (http consultadas)</li>
   <li>Seleccionar variables y agregarlas en un dataframe</li>
   <li>Revisar series de dataframe </li>
-  <li>Guardar dataframe en un archivo csv</li>
+  <li>Guardar dataframe en un archivo csv.</li>
 </ol>
